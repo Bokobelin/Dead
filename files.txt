@@ -1,1 +1,1 @@
-files/SlowMania.exe
+https://raw.githubusercontent.com/Bokobelin/Dead/files/
